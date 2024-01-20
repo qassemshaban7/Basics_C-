@@ -1,0 +1,8 @@
+U:\projects with c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+U:\projects with c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\projects with c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\projects with c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+U:\projects with c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+U:\projects with c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+U:\projects with c#\ConsoleApplication1rout\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+U:\projects with c#\ConsoleApplication1rout\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
