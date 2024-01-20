@@ -1,0 +1,16 @@
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\bin\Debug\net5.0\ConsoleApp2route.exe
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\bin\Debug\net5.0\ConsoleApp2route.deps.json
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\bin\Debug\net5.0\ConsoleApp2route.runtimeconfig.json
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\bin\Debug\net5.0\ConsoleApp2route.runtimeconfig.dev.json
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\bin\Debug\net5.0\ConsoleApp2route.dll
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\bin\Debug\net5.0\ConsoleApp2route.pdb
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.csproj.AssemblyReference.cache
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.GeneratedMSBuildEditorConfig.editorconfig
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.AssemblyInfoInputs.cache
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.AssemblyInfo.cs
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.csproj.CoreCompileInputs.cache
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.dll
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\refint\ConsoleApp2route.dll
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.pdb
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ConsoleApp2route.genruntimeconfig.cache
+U:\projects with c#\ConsoleApp2routesolution\ConsoleApp2route\obj\Debug\net5.0\ref\ConsoleApp2route.dll

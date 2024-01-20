@@ -1,0 +1,12 @@
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\bin\Debug\net5.0\Comman.deps.json
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\bin\Debug\net5.0\Comman.dll
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\bin\Debug\net5.0\Comman.pdb
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.csproj.AssemblyReference.cache
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.GeneratedMSBuildEditorConfig.editorconfig
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.AssemblyInfoInputs.cache
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.AssemblyInfo.cs
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.csproj.CoreCompileInputs.cache
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.dll
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\refint\Comman.dll
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\Comman.pdb
+U:\projects with c#\ConsoleApp2routesolution\ClassLibrary1comman\obj\Debug\net5.0\ref\Comman.dll

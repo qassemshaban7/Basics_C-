@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp2route/1.0.0": {
+        "runtime": {
+          "ConsoleApp2route.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2route/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
